@@ -1,6 +1,6 @@
 # NTU SCSE Challenge 2021: 
 Data Science and Artificial Intelligence problem: 
-[Team CJPythons](https://www.ntu.edu.sg/images/librariesprovider118/news-events/scse-computing-challenge-202154f84e0e-2c74-4211-a795-816575dbf69f.jpg?Status=Master&sfvrsn=464ed816_3)
+![Team CJPythons](https://www.ntu.edu.sg/images/librariesprovider118/news-events/scse-computing-challenge-202154f84e0e-2c74-4211-a795-816575dbf69f.jpg?Status=Master&sfvrsn=464ed816_3)
 Awarded: Young Technopreneurs Award
 
 ## CNN and RNN
