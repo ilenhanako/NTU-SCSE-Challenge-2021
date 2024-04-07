@@ -18,6 +18,13 @@ To solve errors on duplicated characters. We need to calculate the loss value fo
 
 ## Main preprocessing steps:
 
+- numpy and pandas for data manipulation,
+- cv2 (OpenCV) for image processing,
+- matplotlib for visualization,
+- keras for building and training neural network models,
+- PIL for additional image processing capabilities, and
+- sklearn.model_selection for splitting datasets.
+
 #### Loading and Checking Data:
 CSV files containing training and testing datasets are loaded.
 The MNIST dataset is also loaded and its size is printed.
